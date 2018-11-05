@@ -25,10 +25,10 @@ define('DB_NAME', 'landing-page-escort-v2');
 define('DB_USER', 'root');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'jEIijJtJM9AwV0KBHxiikH134nvbkXYI2EPJEzxO9NJaXvqTXQJ519e');
+define('DB_PASSWORD', '');
 
 /** Adresse de l’hébergement MySQL. */
-define('DB_HOST', '127.0.0.1');
+define('DB_HOST', 'localhost');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define('DB_CHARSET', 'utf8mb4');
